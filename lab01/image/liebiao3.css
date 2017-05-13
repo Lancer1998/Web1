@@ -1,0 +1,16 @@
+body{font-family: Arial;
+	background-image:url(bg.gif);
+	background-repeat: no-repeat;
+	background-position:center top;}
+ul{list-style-type: none;}
+li{float: left;
+	text-indent: 4em;}
+.menu{font-size: 14px;
+	font-weight: bolder;
+	color: #b9f605;}
+.menu a{color:white;
+	text-decoration: none;}
+.menu a:hover{color:#b9f605;
+	text-decoration: none;}
+.menu .special{color:#fdb306;
+	text-decoration: none;}
