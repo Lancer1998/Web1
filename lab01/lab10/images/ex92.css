@@ -1,0 +1,102 @@
+#d1{margin-left: 150px;
+margin-top: 85px;
+color: brown; }
+
+#timu{font-size: 25px;
+color: brown;
+width: 400px;
+font-weight: bolder;
+position: relative;
+left: 320px;
+top: -30px;}
+
+.xian{position: relative;
+left: 250px;
+top: -30px;}
+
+#zi p{width: 600px;
+position: relative;
+left: 200px;
+top: -30px;
+text-indent: 2em;
+color: brown;}
+
+#ren{position: relative;
+left: 220px;
+top: -30px;}
+
+#wen{color: gray;
+position: relative;
+left: 400px;
+top: -20px;}
+
+#zuo{float: left;}
+
+#you{float: right;}
+
+#xia{color: brown;
+position: relative;
+width: 500px;
+left: 250px;
+top: -20px;
+font-size: 12px;}
+
+#zj{background-image: url(q.jpg);
+background-repeat: no-repeat;
+width: 280px;
+height: 220px;
+position: relative;
+left: -300px;
+top: 20px;}
+
+#new{position: relative;
+left: 30px;
+top: 15px;}
+
+#zj ul{list-style-type: none;
+text-indent: 15px;}
+
+#zj a{color: brown;
+font-size: 14px;
+line-height: 30px;}
+
+#zi{width: 220px;
+position: relative;
+left: 25px;
+top: 30px;
+font-size: 14px;}
+
+#jia{position: relative;
+left: 35px;
+top: 30px;}
+
+#jia img{width: 200px;}
+
+#ou{background-image: url(show_bg.png);
+background-repeat: no-repeat;
+height: 500px;
+position: relative;
+left: -300px;
+top: 50px;}
+
+#ou ul{list-style-type: none;
+line-height: 20px;}
+
+#ou span{color: red;
+font-weight: bolder;}
+
+#ting{position: relative;
+top: 40px;
+left: -220px;}
+
+#qian{position: relative;
+top: 15px;
+left: 30px;}
+
+#zhong{position: relative;
+left: 60px;
+top: -12px;}
+
+#hou{position: relative;
+left: 110px;
+top: -37px;}
