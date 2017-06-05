@@ -1,0 +1,19 @@
+img{width: 200px;
+height: 160px;
+opacity: 0.5;
+display: inline;
+margin:3px;
+border: 1px solid #bebebe;}
+
+img:hover{opacity: 1;
+border:1px solid #333333;}
+
+.img{float: left;
+border-width: 0.5px;
+border-style: solid;
+border-color: gray;}
+
+.desc{padding-left: 80px;
+border-style: solid;
+border-color: gray;
+border-width: 1px 0px 0px 0px;}
