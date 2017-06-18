@@ -1,0 +1,36 @@
+.w2{position: relative;
+left: 10%;
+top: 30px;}
+
+.w2 li{list-style: none;}
+
+.w2 img{width: 250px;}
+
+.w1{position: relative;
+left: 32%;
+top:-550px; }
+
+.w1 li{list-style: none;}
+
+.w1 a{text-decoration: none;
+color: white;
+font-size: 18px;
+line-height: 2.5em;}
+
+.w1 a:hover{color: #cc0000;}
+
+.xia{position: relative;
+left: 35%;}
+
+.yeshu li{list-style: none;
+float: left;
+text-indent: 3em;}
+
+.yeshu a{text-decoration: none;
+color: white;}
+
+.yeshu a:hover{color: #cc0000;}
+
+.xia{position: relative;
+left: -5%;
+top: -400px;}
